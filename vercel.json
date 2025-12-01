@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd mindai-frontend && npm install && npm run build",
+  "outputDirectory": "mindai-frontend/build",
+  "devCommand": "npm run dev",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
